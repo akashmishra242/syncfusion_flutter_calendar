@@ -1,7 +1,7 @@
 # syncfusion_flutter_calendar
 
-In this flutter project Implementation of Google Calendar in Flutter has been done using syncfusion_flutter_calendar package.
-(Google Maps ft. Event addition using both backend & manually, Event management, monthly view, weekly view, daily view and much more..)
+In this project Implementation of Google Calendar in Flutter has been done using syncfusion_flutter_calendar package.
+(Google Calendar ft. Event addition using both backend & manually, Event management, monthly view, weekly view, daily view and much more..)
 
 ### **This application includes:**
 1) Event addition in calendar using backend (here firebase).
