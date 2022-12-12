@@ -23,7 +23,7 @@ In this project Implementation of Google Calendar in Flutter has been done using
 
 [![googledrive](https://img.shields.io/badge/googledrive-blue?style=for-the-badge&logo=googledrive&logoColor=green)](https://drive.google.com/file/d/10eC9F2wb8ThkOq_u-ynDZx57iLW9AOv-/view?usp=sharing)
 
-[<center><img src="https://user-images.githubusercontent.com/91900783/207086939-98f8f0e4-9fe1-48c3-9f43-63298d357f5b.jpg" width="90%" height="500%"></center>](https://drive.google.com/file/d/10eC9F2wb8ThkOq_u-ynDZx57iLW9AOv-/view?usp=sharing)
+[<img src="https://user-images.githubusercontent.com/91900783/207086939-98f8f0e4-9fe1-48c3-9f43-63298d357f5b.jpg" width="90%" height="500%">](https://drive.google.com/file/d/10eC9F2wb8ThkOq_u-ynDZx57iLW9AOv-/view?usp=sharing)
 
 [ #2 ] [ .gif ] : 
 
